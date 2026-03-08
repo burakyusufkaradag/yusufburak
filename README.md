@@ -2,7 +2,7 @@
 ### 🚀 Full-Stack Freelance Developer | Remote Specialist since 2019
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=4Lorean2&label=Profile%20views&color=0e75b6&style=flat" alt="4Lorean2" />
+<img src="https://komarev.com/ghpvc/?username=burakyusufkaradag&label=Profile%20views&color=0e75b6&style=flat" alt="burakyusufkaradag" />
 </p>
 
 ---
@@ -13,7 +13,7 @@ I am a passionate **Full-Stack Developer** dedicated to building scalable and hi
 - 🔭 I’m currently working on **Restructuring my GitHub ecosystem**
 - 🌱 I’m currently learning **Advanced React Native & Cloud Architectures**
 - 💬 Ask me about **React, Node.js, and Software Architecture**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_ID)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yusuf-burak-karada%C4%9F-652a133a5/)
 
 ---
 
