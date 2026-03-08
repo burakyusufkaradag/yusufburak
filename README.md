@@ -1,5 +1,5 @@
 # Hi 👋, I'm Yusuf Burak Karadağ
-### 🚀 Full-Stack Freelance Developer | Remote Specialist since 2022
+### 🚀 Full-Stack Freelance Developer 
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=burakyusufkaradag&label=Profile%20views&color=0e75b6&style=flat" alt="burakyusufkaradag" />
