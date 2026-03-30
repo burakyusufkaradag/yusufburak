@@ -11,64 +11,46 @@
 
 ---
 
-### 🚀 Hakkımda
+### 🚀 About Me
 
-Ben, ölçeklenebilir ve yüksek performanslı web uygulamaları geliştirmeye odaklanmış bir **Full-Stack Developer**'ım. Şu anda ekosistemimi modernize etmek ve projelerimi **TypeScript** mimarisine taşımakla meşgulüm.
+I am a **Full-Stack Developer** passionate about building scalable and high-performance web applications. Currently, I am modernizing my ecosystem and migrating my projects to **TypeScript** for better reliability and performance.
 
-* 🔭 **Şu an odaklandığım:** GitHub ekosistemimi yeniden yapılandırmak ve kurumsal B2B portallar.
-* 🌱 **Neler öğreniyorum:** Advanced React Native & Bulut Mimarileri.
-* 💬 **Bana sorun:** React, Node.js ve Yazılım Mimarisi.
-* 📫 **İletişim:** [LinkedIn üzerinden bağlantı kurabiliriz.](https://www.linkedin.com/in/yusuf-burak-karada%C4%9F-652a133a5/)
+* 🔭 **Current Focus:** Restructuring my GitHub ecosystem and developing corporate B2B portals.
+* 🌱 **Currently Learning:** Advanced React Native & Cloud Architectures.
+* 💬 **Ask me about:** React, Node.js, and Software Architecture.
 
 ---
 
-### 🛠️ Yetkinlikler & Araçlar
+### 🛠️ Skills & Tools
 
 #### 💻 Frontend & UI/UX
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,sass,html,css,angular" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,sass,html,css,angular" />
 
 #### ⚙️ Backend & Database
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgres,python" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgres,python" />
 
 #### 🚀 DevOps & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,aws,linux,git,postman,figma" />
-</p>
+<img src="https://skillicons.dev/icons?i=docker,aws,linux,git,postman,figma" />
 
 ---
 
-### 📊 GitHub İstatistikleri
+### 📊 GitHub Stats & Activity
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=burakyusufkaradag&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakyusufkaradag&layout=compact&theme=tokyonight&border_radius=10" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=burakyusufkaradag&theme=tokyonight&area=true&hide_border=true&border_radius=10&custom_title=Weekly%20Coding%20Activity" width="100%" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=burakyusufkaradag&theme=tokyonight&border_radius=10" alt="burakyusufkaradag" />
 </p>
----
 
-### 📊 Performans ve Aktivite
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=burakyusufkaradag&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakyusufkaradag&layout=compact&theme=tokyonight&border_radius=10" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=burakyusufkaradag&theme=tokyonight&area=true&hide_border=true&border_radius=10" width="100%" />
-</p>
-
----
 ---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" />
-</p
-  
-  >
+</p>
